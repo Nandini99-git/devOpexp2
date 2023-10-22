@@ -1,1 +1,4 @@
-
+print("Hello 👋, nice to meet you all")
+nam=input()
+print("Hii,",nam)
+print("Welcome to team")
